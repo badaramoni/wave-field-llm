@@ -4,7 +4,7 @@ A novel attention mechanism for language models that achieves **O(N log N)** com
 
 ## Demo
 
-https://github.com/badaramoni/wave-field-llm/raw/main/demo.mp4
+<!-- Drag and drop demo.mp4 here using GitHub web editor -->
 
 ## Key Results
 
