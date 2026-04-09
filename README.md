@@ -15,15 +15,9 @@ Tokens interact through wave propagation on a continuous field rather than direc
 
 See [BENCHMARKS.md](BENCHMARKS.md) for full results.
 
-## How It Works
-
-Tokens deposit information onto a continuous field. An FFT-based wave kernel propagates information across the field. Tokens read back from the field at their positions.
-
-Each attention head learns three physics parameters: **frequency**, **damping**, and **phase** — controlling how information flows between tokens.
-
 ## Status
 
-Active research. Scaling to larger models.
+Active research. Scaling to larger models. Patent pending.
 
 ---
 
