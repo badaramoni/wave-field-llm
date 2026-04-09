@@ -47,8 +47,8 @@
 | | 130M model | 1.49B model |
 |---|---|---|
 | Tokens | 32B | 6.8B |
-| Hardware | 8×H100 SXM | 8×H100 SXM |
-| Time | 27 hours | 11.5 hours |
+| Hardware | 2× RTX 5090 | 8× H100 SXM |
+| Time | 54.4 hours | 11.5 hours |
 | Checkpoint | 505 MB | 5.7 GB |
 | DCLM CORE | 46.8% | 39.8% |
 
