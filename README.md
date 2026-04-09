@@ -2,6 +2,10 @@
 
 A novel attention mechanism for language models that achieves **O(N log N)** complexity, replacing the standard O(N²) dot-product attention.
 
+## Demo
+
+https://github.com/badaramoni/wave-field-llm/raw/main/demo.mp4
+
 ## Key Results
 
 | Metric | Value |
